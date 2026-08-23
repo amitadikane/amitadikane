@@ -1,3 +1,14 @@
+# Hi, I'm Amit Adikane 👋
+
+**Aspiring Data Scientist | MSc AI & Machine Learning (Scaler Neovarsity / Woolf) | B.Tech Mechanical Engineering**
+
+📍 Aurangabad, Maharashtra, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/amit-adikane-4060a91b1/) | 📧 amitadikane@gmail.com
+
+---
+
+### 🚀 About Me
+
 - 🎓 Currently pursuing **MSc in Computer Science: Artificial Intelligence & Machine Learning** at Scaler Neovarsity (ECTS-accredited via Woolf University, Malta)
 - 🧠 Building strong foundations in **Machine Learning, Statistics, Feature Engineering, Hypothesis Testing & SQL Analytics**
 - 📊 Completed **7 end-to-end business case studies** covering E-commerce, Logistics, Consumer Analytics & Education domain
