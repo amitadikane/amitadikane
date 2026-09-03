@@ -30,9 +30,9 @@
 
 | Project | Domain | Key Skills | Repo |
 |---------|--------|------------|------|
-| **Delhivery Logistics** | Supply Chain | Feature Engineering, Aggregation, Outlier Treatment | [Link](https://github.com/Amit14594/delhivery-feature-engineering) |
-| **Yulu Bike Sharing** | Mobility | Hypothesis Testing (t-test, ANOVA, Chi-Square) | [Link](https://github.com/Amit14594/yulu-hypothesis-testing) |
 | **Jamboree Admission** | Education | Linear Regression, Regularization, Assumption Testing | [Link](https://github.com/Amit14594/jamboree-linear-regression) |
+| **Delhivery Logistics** | Supply Chain | Feature Engineering, Aggregation, Outlier Treatment | [Link](https://github.com/Amit14594/delhivery-feature-engineering) |
+| **Yulu Bike Sharing** | Mobility | Hypothesis Testing (t-test, ANOVA, Chi-Square) | [Link](https://github.com/amitadikane/yulu-hypothesis-testing) |
 | **Walmart Black Friday** | Retail | Confidence Intervals, Central Limit Theorem | [Link](https://github.com/Amit14594/walmart-black-friday-clt) |
 | **Aerofit Treadmill** | Consumer Goods | Contingency Tables, Conditional Probability | [Link](https://github.com/Amit14594/aerofit-probability-analysis) |
 | **Netflix Content Strategy** | Media | EDA, Visualization, Business Recommendations | [Link](https://github.com/Amit14594/netflix-eda-visualization) |
