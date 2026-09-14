@@ -31,7 +31,7 @@
 | Project | Domain | Key Skills | Repo |
 |---------|--------|------------|------|
 | **Jamboree Admission** | Education | Linear Regression, Regularization, Assumption Testing | [Link](https://github.com/amitadikane/jamboree-linear-regression) |
-| **Delhivery Logistics** | Supply Chain | Feature Engineering, Aggregation, Outlier Treatment | [Link](https://github.com/amitadikane/delhivery-feature-engineering) |
+| **Delhivery Logistics** | Supply Chain | Feature Engineering, Aggregation, Outlier Treatment | [Link](https://github.com/amitadikane/Delhivery-Logistics-Feature-Engineering-Case-Study) |
 | **Yulu Bike Sharing** | Mobility | Hypothesis Testing (t-test, ANOVA, Chi-Square) | [Link](https://github.com/amitadikane/yulu-hypothesis-testing) |
 | **Walmart Black Friday** | Retail | Confidence Intervals, Central Limit Theorem | [Link](https://github.com/amitadikane/walmart-black-friday-clt) |
 | **Aerofit Treadmill** | Consumer Goods | Contingency Tables, Conditional Probability | [Link](https://github.com/amitadikane/aerofit-probability-analysis) |
