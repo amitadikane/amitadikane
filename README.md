@@ -11,7 +11,7 @@
 
 - 🎓 Currently pursuing **MSc in Computer Science: Artificial Intelligence & Machine Learning** at Scaler Neovarsity (ECTS-accredited via Woolf University, Malta)
 - 🧠 Building strong foundations in **Machine Learning, Statistics, Feature Engineering, Hypothesis Testing & SQL Analytics**
-- 📊 Completed **7 end-to-end business case studies** covering E-commerce, Logistics, Consumer Analytics & Education domain
+- 📊 Completed 8 end-to-end business case studies covering E-commerce, Logistics, Consumer Analytics, Education & Credit Risk domains
 - 👨‍🏫 Former **Physics Faculty (4.5+ years)** for JEE/NEET — strong analytical thinking & communication skills
 - 🔧 Background in **Mechanical Engineering** with hands-on project experience
 ---
@@ -30,6 +30,7 @@
 
 | Project | Domain | Key Skills | Repo |
 |---------|--------|------------|------|
+| **LoanTap Underwriting** | FinTech / Credit | Logistic Regression, Precision-Recall, Credit Risk | [Link](https://github.com/amitadikane/loantap-logistic-regression) |
 | **Jamboree Admission** | Education | Linear Regression, Regularization, Assumption Testing | [Link](https://github.com/amitadikane/jamboree-linear-regression) |
 | **Delhivery Logistics** | Supply Chain | Feature Engineering, Aggregation, Outlier Treatment | [Link](https://github.com/amitadikane/delhivery-feature-engineering) |
 | **Yulu Bike Sharing** | Mobility | Hypothesis Testing (t-test, ANOVA, Chi-Square) | [Link](https://github.com/amitadikane/yulu-hypothesis-testing) |
